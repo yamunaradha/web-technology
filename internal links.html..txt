@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<title>page 1</title>
+</head>
+<body style='background-color:skyblue'>
+<a name='sec A'></a><br/>
+<a href='#sec B'>section-B</a>&nbsp;&nbsp;<a href='#sec C'>section-c</a><h4>section A</h4>
+<pre>
+radha
+nagur
+navya
+shanker
+mahitha
+manasa
+</pre>
+<a name='sec B'></a><br/>
+<a href='#sec A'>section-A</a>&nbsp;&nbsp;<a href='#sec C'>section-c</a><h4>section B</h4>
+<pre>
+radha
+nagur
+manisha
+rachana
+abhi
+</pre>
+<a name='sec C'></a><br/>
+<a href='#sec A'>section-A</a>&nbsp;&nbsp;<a href='#sec B'>section-B</a><h4>section C</h4>
+<pre>
+ganesh
+suresh
+mahesh
+satish
+rupesh
+</pre>
